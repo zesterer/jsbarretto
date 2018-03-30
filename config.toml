@@ -13,7 +13,7 @@ theme = "hugo-resume"
     profileImage = "images/profile.jpg"
     email = "joshua.s.barretto@gmail.com"
     description = "Systems software developer with industry experience."
-    favicon = "images/favicon.png"
+    favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
