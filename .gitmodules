@@ -1,0 +1,6 @@
+[submodule "themes/hc"]
+	path = themes/hc
+	url = git@github.com:spf13/herring-cove.git
+[submodule "themes/hugo-resume"]
+	path = themes/hugo-resume
+	url = git@github.com:eddiewebb/hugo-resume.git

@@ -1,0 +1,65 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Joshua Barretto"
+
+theme = "hugo-resume"
+
+[params]
+    firstName = "Joshua"
+    lastName = "Barretto"
+    address = "Plymouth, UK"
+    phone = "07927 037265"
+    contactNote = "System software developer" #used in QR code only
+    profileImage = "img/me.png"
+    email = "joshua.s.barretto@gmail.com"
+    description = "Systems software developer with industry experience."
+    favicon = "images/favicon.ico"
+
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = true
+    showOpenSource = true
+    showPublications = true
+    showExperience = true
+    showEducation = true
+
+	showQr = false
+
+    # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
+    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/zesterer/"
+
+[[params.handles]]
+    name = "Wordpress"
+    link = "https://jsbarretto.wordpress.com/"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/joshua-barretto/"
+
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/jsbarretto/"
+
+#[[params.handles]]
+#    name = "Bitbucket"
+#    link = "https://bitbucket.org/eddiewebb/"
+
+#[[params.handles]]
+#    name = "Stack Overflow"
+#    link = "https://stackoverflow.com/users/story/82880"
+#    icon = "stack-overflow" #optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
+
+#[[params.handles]]
+#    name = "Keybase"
+#    link = "https://keybase.io/edwardawebb"
+#    icon = "key" #optional icon attribute used for Font Awesome icons, otherwise the name is lowercased.
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
+
+[outputs] #only required for search
+    home = ["HTML", "JSON"]

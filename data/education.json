@@ -1,0 +1,15 @@
+
+[
+	{
+		"school": "University of Plymouth",
+		"degree": "Bachelor of Science",
+		"major": "Computer Science",
+		"notes": "",
+		"range":"2015 - 2018"
+	}, {
+		"school": "Devonport High School for Boys",
+		"degree": "A-Levels",
+		"major":"Computer Science, Mathematics and Economics",
+		"range":"2003 - 2015"
+	}
+]

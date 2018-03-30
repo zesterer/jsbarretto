@@ -1,0 +1,15 @@
+[
+	{
+		"grouping": "Languages",
+		"skills": ["C++", "C", "Rust", "x86 Assembly", "Python", "Java", "C#", "Zig", "Vala"]
+	},{
+		"grouping": "Operating Systems & Tools",
+		"skills": ["Linux", "Git", "BASH"]
+	},{
+		"grouping": "Technologies",
+		"skills": ["x86", "OpenGL", "GLSL", "POSIX", "SFML", "GTK"]
+	},{
+		"grouping": "Platform Administration",
+		"skills": ["Wordpress"]
+	}
+]
