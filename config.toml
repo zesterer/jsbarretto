@@ -18,8 +18,8 @@ theme = "hugo-resume"
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
     showProjects = true
-    showOpenSource = true
-    showPublications = true
+    showOpenSource = false
+    showPublications = false
     showExperience = true
     showEducation = true
 
