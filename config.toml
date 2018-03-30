@@ -14,6 +14,7 @@ theme = "hugo-resume"
     email = "joshua.s.barretto@gmail.com"
     description = "Systems software developer with industry experience."
     favicon = "images/favicon.ico"
+	blogURL = "https://jsbarretto.wordpress.com"
 
     # what sections to display.  Setting to false disables navigation and section.
     showSkills = true
@@ -22,23 +23,28 @@ theme = "hugo-resume"
     showPublications = false
     showExperience = true
     showEducation = true
+	showBlog = true
 
 	showQr = false
 
     # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
-    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+    gitCommitPrefix = "https://github.com/zesterer/jsbarretto/commit/"
 
 [[params.handles]]
     name = "GitHub"
     link = "https://github.com/zesterer/"
 
-[[params.handles]]
-    name = "Wordpress"
-    link = "https://jsbarretto.wordpress.com/"
+#[[params.handles]]
+#    name = "Wordpress"
+#    link = "https://jsbarretto.wordpress.com/"
 
 [[params.handles]]
     name = "LinkedIn"
     link = "https://www.linkedin.com/in/joshua-barretto/"
+
+[[params.handles]]
+    name = "YouTube"
+    link = "https://www.youtube.com/channel/UCVeOdA6hDpT_SZ4jhuDXAwA"
 
 [[params.handles]]
     name = "Twitter"
