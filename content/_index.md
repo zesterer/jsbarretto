@@ -12,8 +12,8 @@ I've worked in the maritime industry writing embedded and non-embedded control s
 
 ##### My Plan
 
-I'm due to graduate with a degree in Computer Science later this year with the aim of studying part-time for a Computer Science MRes master's degree.
+I'm due to graduate with a degree in Computer Science later this year. Once completed, I aim to continue my study with a part-time Computer Science MRes master's degree.
 
 ##### Services
 
-I'm available for part-time freelance work. If you're interested in hiring me, you can find my contact details <a class="js-scroll-trigger" href="/#contact">here</a>.
+I'm available for part-time freelance work. If you're interested in hiring me, you can find ways to contact me <a class="js-scroll-trigger" href="/#contact">here</a>.
