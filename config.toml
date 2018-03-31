@@ -23,6 +23,8 @@ theme = "hugo-resume"
     showPublications = false
     showExperience = true
     showEducation = true
+	showContact = true
+	showContactForm = true
 	showBlog = true
 
 	showQr = false
