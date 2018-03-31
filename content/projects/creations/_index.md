@@ -22,7 +22,7 @@ You can find more information about Vulcan [here](https://www.github.com/zestere
 
 Emul8or is an emulator for the CHIP-8 game system. It can run a variety of CHIP-8 ROMs including pong, space invaders, snake and tetris.
 
-You can find more information about Vulcan [here](https://www.github.com/zesterer/vulcan/).
+You can find more information about Emul8or [here](https://www.github.com/zesterer/emul8or/).
 
 <p>
 <img alt="Emul8or running Pong" width="512" src="https://github.com/zesterer/emul8or/raw/master/doc/pong-chip8.png">
