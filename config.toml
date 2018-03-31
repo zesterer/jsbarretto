@@ -11,9 +11,10 @@ theme = "hugo-resume"
     phone = "07927 037265"
     contactNote = "System software developer" #used in QR code only
     profileImage = "images/profile.jpg"
-    email = "joshua.s.barretto@gmail.com"
+    email = "joshua@jsbarretto.com"
     description = "Systems software developer with industry experience."
     favicon = "images/favicon.ico"
+	backgroundImage = "images/background.jpg"
 	blogURL = "https://jsbarretto.wordpress.com"
 
     # what sections to display.  Setting to false disables navigation and section.
