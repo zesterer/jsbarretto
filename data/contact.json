@@ -1,14 +1,14 @@
 [
 	{
 		"service": "Email",
-		"username": "joshua.s.barretto@gmail.com",
-		"link": "mailto:joshua.s.barretto@gmail.com"
-    }, {
+		"username": "joshua [at] jsbarretto [dot] com"
+	}, {
 		"service": "Facebook Messenger",
 		"username": "jsbarretto",
 		"link": "https://www.messenger.com/t/jsbarretto"
     }, {
-		"service": "Phone",
-		"username": "07927 037265"
-    }
+		"service": "IRC (Freenode)",
+		"username": "zesterer",
+		"comment": "Active on #osdev, #c++, #linux, #c and #rust"
+	}
 ]
