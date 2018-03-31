@@ -4,10 +4,10 @@
 		"skills": ["C++", "C", "Rust", "x86 Assembly", "Python", "Java", "C#", "JavaScript", "Zig", "Vala"]
 	},{
 		"grouping": "Operating Systems & Tools",
-		"skills": ["Linux", "Git", "BASH"]
+		"skills": ["Linux", "Git", "BASH", "CMake", "Make"]
 	},{
 		"grouping": "Technologies",
-		"skills": ["x86", "OpenGL", "GLSL", "POSIX", "HTML", "CSS", "SFML", "GTK"]
+		"skills": ["x86", "OpenGL", "GLSL", "POSIX", "HTML/CSS", "SFML", "GTK", "MBed"]
 	},{
 		"grouping": "Platform Administration",
 		"skills": ["Wordpress"]
