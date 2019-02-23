@@ -10,11 +10,11 @@ You can find more information about Tupai [here](https://www.github.com/tupai-os
 
 ## Forge (Dynamically-typed programming language)
 
-Emul8or is an emulator for the CHIP-8 game system. It can run a variety of CHIP-8 ROMs including pong, space invaders, snake and tetris.
+Forge is a dynamically-typed programming language inspired by JavaScript, Rust, and Python. It aspires to be 'JavaScript, but less shit'.
 
 [You can try Forge online here](https://forge.jsbarretto.com).
 
-[You can find out more about Forge herehere](https://www.github.com/zesterer/forge/).
+[You can find out more about Forge here](https://www.github.com/zesterer/forge/).
 
 ## Euc (Software rendering library)
 
