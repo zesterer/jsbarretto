@@ -1,3 +1,5 @@
+<meta name="flattr:id" content="qjxl7d">
+
 ### About Me
 
 I'm Joshua, a 21 year-old system software developer living in Cardiff, UK. I have a strong interest in software safety, system design and artificial 
