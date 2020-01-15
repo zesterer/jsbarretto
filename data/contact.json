@@ -6,9 +6,8 @@
 		"service": "Facebook Messenger",
 		"username": "jsbarretto",
 		"link": "https://www.messenger.com/t/jsbarretto"
-    }, {
-		"service": "IRC (Freenode)",
-		"username": "zesterer",
-		"comment": "I'm active on #osdev, #c++, #linux, #c and #rust"
+	}, {
+		"service": "Discord",
+		"username": "zesterer#3131",
 	}
 ]
