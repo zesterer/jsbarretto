@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm Joshua, a 22 year-old software developer and Computer Science graduate living in Cardiff, UK. I have a strong interest in software safety, system design and artificial 
+I'm Joshua, a 22 year-old software developer and Computer Science graduate living in Bristol, UK. I have a strong interest in software safety, system design and artificial 
 intelligence. I'm proficient in <a class="js-scroll-trigger" href="/#skills">several programming languages</a> and have experience working on large codebases.
 
 ##### What I've Done
